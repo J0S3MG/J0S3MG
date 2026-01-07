@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy José Manuel González
 
-🎓 Estudiante de la **Tecnicatura Universitaria en Programación (UTN)** [cite: 30] [cite_start]con formación previa como **Técnico en Gestión Organizacional**.  
-💻 Apasionado por el **desarrollo Full Stack** [cite: 6] [cite_start]y la resolución de problemas complejos a través del código.  
+🎓 Estudiante de la **Tecnicatura Universitaria en Programación (UTN)** con formación previa como **Técnico en Gestión Organizacional**.  
+💻 Apasionado por el **desarrollo Full Stack** y la resolución de problemas complejos a través del código.  
 🚀 Actualmente busco mi primera oportunidad profesional en IT para aplicar mis conocimientos en **SOLID y Clean Architecture**.
 
 ---
