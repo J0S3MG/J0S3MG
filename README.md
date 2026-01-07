@@ -23,13 +23,16 @@
 
 ---
 
-## ✨ Sobre mí y mi pasión
+## ✨ Sobre mí
 
-Más allá del conocimiento técnico, creo profundamente en la **pasión** como motor de todo lo que hago. Vengo de una familia de emprendedores donde aprendí el valor de soñar y trabajar duro por esos sueños.
+Busco una oportunidad para poner en práctica mis conocimientos y desarrollar mis habilidades técnicas. 
 
-Para mí, programar no es solo escribir código; es una pasión similar a la que siente un hincha en la cancha o la emoción al cantar el himno. Es esa energía la que me impulsa a aprender, innovar y descubrir soluciones nuevas cada día. Como dijo Albert Einstein:
+Aprender, descubrir, innovar ese tipo de pensamientos me llevaron a meterme en el sector IT, a estudiar, a querer saber más. En general soy una persona trabajadora, mis raíces son así mis padres siempre fueron emprendedores y de ellos aprendí el valor de soñar. 
 
-> *“La imaginación es más importante que el conocimiento. El conocimiento es limitado, mientras que la imaginación circunda el mundo.”*
+He conocido mucha gente, desde profesores hasta compañeros con una gran pasión por la programación (yo incluido), me encanta la idea de desarrollar software. Hago esto por pasión, esa misma pasión que un hincha siente cuando va a la cancha o cuando ve a su equipo jugar por la tele, esa misma pasión que uno siente cuando canta el himno, esa pasión es la que yo siento cuando codeo. De mis padres aprendí que la pasión vale más que cualquier conocimiento porque es la pasión el motor que mueve los sueños y este mundo está hecho para soñadores, para aquellos dispuestos a dejarlo todo por aquello que les gusta. Como dijo Albert Einstein:
+> *“Imagination is more important than knowledge. Knowledge is limited, whereas imagination encircles the world.”*
+
+Desde ya muchas gracias por revisar mi perfil. Pueden contactarme por cualquier propuesta de trabajo o colaboracion, quiero aportar mi pequeño granito al mundo desde mi pocision como Dev. 
 
 ---
 
@@ -48,5 +51,4 @@ Para mí, programar no es solo escribir código; es una pasión similar a la que
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/J0S3MG)
 
 - 📧 Email: **josemanuelgonzalez.dev@gmail.com**
-- 📱 Celular: **+54 (343) 464-0862**
 - 📍 Gral. Racedo, Entre Ríos - Argentina
