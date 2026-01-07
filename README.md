@@ -31,7 +31,7 @@
 - Adaptabilidad y aprendizaje constante de nuevas tecnologías, y metodologias.
 
 ---
-*Busco una oportunidad para poner en práctica mis conocimientos y desarrollar mis habilidades técnicas. 
+Busco una oportunidad para poner en práctica mis conocimientos y desarrollar mis habilidades técnicas. 
 
 Aprender, descubrir, innovar ese tipo de pensamientos me llevaron a meterme en el sector IT, a estudiar, a querer saber más. En general soy una persona trabajadora, mis raíces son así mis padres siempre fueron emprendedores y de ellos aprendí el valor de soñar. 
 
@@ -41,7 +41,7 @@ He conocido mucha gente, desde profesores hasta compañeros con una gran pasión
      -Albert Einstein 
      
 Desde ya muchas gracias por revisar mi perfil. Pueden contactarme por cualquier propuesta, tanto para una entrevista como colaboraciones. 
-*
+
 ---
 ## 📫 Contacto
 
