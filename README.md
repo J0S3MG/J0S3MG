@@ -2,7 +2,8 @@
 
 🎓 Estudiante de la **Tecnicatura Universitaria en Programación (UTN)** con formación previa como **Técnico en Gestión Organizacional**.  
 💻 Apasionado por el **desarrollo Full Stack** y la resolución de problemas complejos a través del código.  
-🚀 Busco mi primera oportunidad profesional en IT para aplicar mis conocimientos en desarrollo Web, Desktop y sistemas escalables. Actualmente, me encuentro desarrollando mi **proyecto final de carrera**.
+🚀 Busco mi primera oportunidad profesional en IT para aplicar mis conocimientos en desarrollo Web, Desktop y sistemas escalables. 
+🧑‍💻 Actualmente, me encuentro desarrollando mi **proyecto final de carrera**.
 
 ---
 
